@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WidgetSmith AI</string>
+    <string name="widget_desc">A widget designed by AI from your prompt</string>
+</resources>
